@@ -1,0 +1,179 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/b/0/b0c3yw4hrg_1_1024x.png",
+      "productName": "Lotus Herbals Whiteglow Vitamin C Radiance Gel Cream Spf 20 Pa+++",
+      "price": "₹399.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/c/o/conditioner.jpg",
+      "productName": " Vitamin C Radiance Gel Conditioner",
+      "price": "₹399.00",
+      "strikedOff": "14% off"
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/m/m/mmm200.jpg",
+      "productName": " Herbals Shampoo With Egg",
+      "price": "₹499.00",
+      "strikedOff": "15% off"
+    },
+    {
+      "id": 4,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/v/a/va109.jpg",
+      "productName": "Vitamin C Herbal Bathing Soap",
+      "price": "₹199.00",
+      "strikedOff": "11% off"
+    },
+    {
+      "id": 5,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/0/8/088a1068058664152308_1.jpg",
+      "productName": "Baby Mild Body Wash",
+      "price": "₹349.00",
+      "strikedOff": "14% off"
+    },
+    {
+      "id": 6,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/e/z/ezgif-1-7bba281fb8.jpg",
+      "productName": "Baby Oil For Scalp",
+      "price": "₹379.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 7,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/v/a/va96.jpg",
+      "productName": "Mother Dairy Milk",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 8,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/u/n/untitled-66.jpg",
+      "productName": "Mama Dairy Milk For Kids ",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 9,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/h/i/himalaya-gentle-baby-shampoo_100ml.png",
+      "productName": "Himalaya Baby Shampoo",
+      "price": "399.00",
+      "strikedOff": "12% off"
+    },
+    {
+      "id": 10,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/g/l/glow_lovely_25g_1.png",
+      "productName": "Fair & Lovely ",
+      "price": "₹99.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 11,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/4/1/41s5wvgxwnl._sy450_87.png",
+      "productName": "Bright Beauty Cream For Women",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 12,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/c/6/c65525avegax00000003_1.jpg",
+      "productName": "Hair Trimmer",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 13,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/5/6/5654d3c1-5483-44a1-aa31-deeeab71197c.png",
+      "productName": "Natural White Olay ",
+      "price": "₹399.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 14,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/h/i/himalaya_men_pimple_clear_neem_face_wash_100_ml_0.jpg",
+      "productName": "Himalya Men Face Wash",
+      "price": "₹399.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 15,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/b/e/be1.jpg",
+      "productName": "Wax Cream For Women & Men",
+      "price": "₹399.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 16,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/3/2/323.jpg",
+      "productName": "Lackme Cream ",
+      "price": "₹499.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 17,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/4/6/46_2.jpg",
+      "productName": "MamaEarth Body Wash",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 18,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/c/f/cf599488058664161423-1_1__1.png",
+      "productName": "Pampers For Babies",
+      "price": "₹199.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 19,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/9/e/9ee625avegax00000026_1.jpg",
+      "productName": "Hair Drier For Men & Women",
+      "price": "₹599.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 20,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/4/c/4c8425a8904086303180_1.jpg",
+      "productName": "Hair Straightner Of Philips",
+      "price": "₹499.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 21,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/5/9/596225avegax00000009_1.jpg",
+      "productName": "Hair Roller ",
+      "price": "₹399.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 22,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/b/e/be177.jpg",
+      "productName": "Fruit Shampoo",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 23,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/l/o/lor15.jpg",
+      "productName": "Lorel Shampoo",
+      "price": "₹299.00",
+      "strikedOff": "16% off"
+    },
+    {
+      "id": 24,
+      "imgSrc": "https://www.beautybebo.com/pub/media/catalog/product/cache/eaadabc6126fdee9eef2f7b7c34a8f4b/u/n/untitled-12.jpg",
+      "productName": "Herbal Hair Color",
+      "price": "₹249.00",
+      "strikedOff": "16% off"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "demo_user",
+      "email": "demo@example.com",
+      "password": "demo123"
+    }
+  ]
+}
