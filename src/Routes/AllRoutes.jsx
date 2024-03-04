@@ -16,7 +16,7 @@ function AllRoutes() {
             <Routes>
 
                 <Route path="/login" element={<Login />} />
-                <Route path="/home" element={<Home/>} />
+                <Route path="/" element={<Home/>} />
                 <Route path="/product" element={<Product />} />
                 <Route path="/singleProduct" element={<SingleProd />} />
                 <Route path="/cart" element={<Cart />} />
