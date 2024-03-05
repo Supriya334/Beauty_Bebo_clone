@@ -242,11 +242,12 @@ Women Fashion
     <li><a class="dropdown-item" href="#">Makeup Remover</a></li>
     <li><a class="dropdown-item" href="#">Setting Spray</a></li>
   </ul>
+ 
 
-  <button class="btn btn-secondary dropdown-toggle color-pink" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-My Cart 
+  <button class="btn btn-secondary dropdown-toggle color-pink" type="button"aria-expanded="false">
+  <a href="http://localhost:3000/cart">My Cart </a>
   </button>
-</div>
+  </div>
 
 
 

@@ -19,6 +19,9 @@ import data from "../db.json";
 function ProdCard({ img, title, price, discount,strOffPrice }) {
   let numb=parseInt(price)
   console.log(typeof(price),typeof(numb))
+function addToCart(){
+  alert("Your Item Has been Added to cart")
+}
   return (
     <Card maxW="sm" lineHeight={1}>
       <CardBody textAlign="center" borderRadius={0}>
@@ -33,7 +36,7 @@ function ProdCard({ img, title, price, discount,strOffPrice }) {
           </Flex>
         </Stack>
         <ButtonGroup spacing='2'>
-                        <Button  backgroundColor= "rgb(225, 9, 135)" variant='solid' colorScheme='blue'>
+                        <Button  backgroundColor= "rgb(225, 9, 135)" variant='solid' colorScheme='blue' onClick={addToCart}>
                         <i class='bx bxs-shopping-bag'></i>Add To Cart
                             {/* <Icon as={FaShoppingBag}/> Buy now */}
                         </Button>
